@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my publications are available at [Google Scholar](https://scholar.google.co.in/citations?user=zkgwkugAAAAJ&hl=en&oi=ao)
 
-- 💬📫  Ask me about **Cheminformatics/Bioinformatics**
+- 💬📫  Ask me about **Cheminformatics and Bioinformatics**
   
 ### Programming Skills: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <br/> </br> ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blueviolet)  ![](https://img.shields.io/badge/GitHub-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)  ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blueviolet)<br/>
 <br>

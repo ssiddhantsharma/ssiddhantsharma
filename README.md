@@ -1,5 +1,4 @@
 <h1 align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/hello.gif" alt="hello-gif">
-<h2 align="left"> I'm Siddhant <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /></h2>
   <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
   <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssiddhantsharma" alt="ssiddhantsharma" />

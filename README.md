@@ -4,7 +4,6 @@
 
   
   <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssiddhantsharma" alt="ssiddhantsharma" />
 
 - I’m currently working at [PopVax](https://popvax.com/)
 
